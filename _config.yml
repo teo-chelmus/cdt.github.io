@@ -22,7 +22,7 @@ description: Pauca sed matura
 navbar-links:
   Acasă: "aboutme"
   Resurse:
-    - Canale youtube: "http://youtube.com"
+    - Canale youtube: "http://www.youtube.com/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Note de curs: "notedecurs"
   Seminarii: "aboutme"
