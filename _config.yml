@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Mate
+title: Matematică
 
 # Short description of your site
 description: Pauca sed matura
@@ -22,9 +22,9 @@ description: Pauca sed matura
 navbar-links:
   Acasă: "aboutme"
   Resurse:
-    - Canale youtube: "http://www.youtube.com/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Note de curs: "notedecurs"
+    - Canale youtube: "aboutme"
+    - Learn markdown: "aboutme"
+  Note de curs: "aboutme"
   Seminarii: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -54,7 +54,7 @@ footer-link-col: "#404040"
 
  # navbar-img: "/img/bgimage.png"
  # footer-img: "/img/bgimage.png"
- page-img: "/img/bgimage.png"
+ # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
