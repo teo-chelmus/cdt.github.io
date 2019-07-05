@@ -1,12 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
-published: true
----
----
 title: Despre acest site
 subtitle: Date organizatorice
+published: true
 ---
 Numele meu este...
 
